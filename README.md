@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AL-SAFWAN
 - 👀 I’m interested in ... React.js
-- 🌱 I’m currently learning ... AWS
+- 🌱 I’m currently learning ... AWS/React Native
 - 💞️ I’m looking to collaborate on ... React.js
 - 📫 How to reach me ... alsafwanuddin@gmail.com
 
