@@ -16,11 +16,9 @@ Work Structure
 <details><summary>JavaScrip </summary>
 <p>
 
-#### yes, even hidden code blocks!
-
 ```
   - GraphQL 
-    - Expres server 
+    <li> Expres server </li>
     - React app with Applo
   - Next
     - Todo app
