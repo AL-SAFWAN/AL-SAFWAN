@@ -8,22 +8,3 @@
 AL-SAFWAN/AL-SAFWAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<details>
-<summary> JavaScript</summary>
-  
- <details>
-<summary> GraphQL</summary>
-  - GraphQL server with express 
-  - GraphQL with react and applo 
-</details>
- <details>
-<summary> Next</summary>
-</details>
- <details>
-<summary> Node&Express</summary>
-</details>
- <details>
-<summary> ReactNative</summary>
-</details>
-  
-</details>
