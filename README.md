@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
   
  <details>
 <summary> GraphQL</summary>
+  - GraphQL server with express 
+  - GraphQL with react and applo 
 </details>
  <details>
 <summary> Next</summary>
