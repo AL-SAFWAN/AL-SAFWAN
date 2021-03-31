@@ -11,7 +11,14 @@ You can click the Preview link to take a look at your changes.
 
 Work Structure 
 
-JavaScrip 
+## collapsible markdown?
+
+<details><summary>JavaScrip </summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```
   - GraphQL 
     - Expres server 
     - React app with Applo
@@ -22,6 +29,11 @@ JavaScrip
   - ReactNative
     - Todo Add
     - Instagram clone
+```
+
+</p>
+</details>
+
     
 Python 
   - Django 
