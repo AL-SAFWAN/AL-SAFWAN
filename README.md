@@ -15,9 +15,9 @@ Work Structure
 
 <details><summary>JavaScrip </summary>
 <p>
-
+```
   - GraphQL 
-    <ul> <li>Expres server</li> </ul>
+   ``` <ul> <li>Expres server</li> </ul>```
     - React app with Applo
   - Next/
     - Todo app
@@ -26,7 +26,7 @@ Work Structure
   - ReactNative
     - Todo Add
     - Instagram clone
-
+```
 </p>
 </details>
 
