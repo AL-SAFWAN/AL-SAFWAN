@@ -15,9 +15,10 @@ Work Structure
 
 <details><summary>JavaScrip </summary>
 <p>
+  
 ```
   - GraphQL 
-   ``` <ul> <li>Expres server</li> </ul>```
+    - Expres server
     - React app with Applo
   - Next/
     - Todo app
