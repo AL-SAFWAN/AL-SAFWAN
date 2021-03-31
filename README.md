@@ -17,9 +17,9 @@ Work Structure
 <p>
 
   - GraphQL 
-    <li> Expres server </li>
+    <ul> <li>Expres server</li> </ul>
     - React app with Applo
-  - Next
+  - Next/
     - Todo app
   - Node&Express
     - Article app 
