@@ -44,10 +44,18 @@ You can click the Preview link to take a look at your changes.
 ```
 </p>
 </details>
+<details><summary>Others </summary>
+<p>
+  
+```
 - Whatsapp clone
 - Slack clone
 - MazeGame js 
 - StandApp
+```
+</p>
+</details>
+
 
 
  
