@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AL-SAFWAN
-- ✏️️ I'm Currently working on Slack Clone
+- ✏️️ I'm Currently working on Amazon Clone
 - 👀 I’m interested in React.js
 - 🌱 I’m currently learning AWS/React Native/Next.js
 - 💞️ I’m looking to collaborate on React.js
