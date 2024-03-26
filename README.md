@@ -10,9 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-## Work Structure 
-
 <details><summary>JavaScrip </summary>
 <p>
   
@@ -40,6 +37,8 @@ You can click the Preview link to take a look at your changes.
     - Lead manager app
   - Flask
     - Article app
+  - FastAPI
+    - A ticket management app 
 ```
 </p>
 </details>
